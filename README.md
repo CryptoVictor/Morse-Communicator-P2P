@@ -3,6 +3,9 @@
 Este repositório contém uma atividade desenvolvida no **Inteli**, utilizando a plataforma Arduino.  
 O objetivo é um comunicador p2p que envia e recebe, criptografando e descriptogrando com código morse mensagens via ESP-NOW.
 
+![IoT](https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafybeidbxzuuikpxqvxsqplkxsvolxiyz55dm3yioqeqx2ipvxr3proqo4)
+
+
 ## Objetivo
 
 Este projeto tem como objetivo demonstrar a **comunicação entre dois microcontroladores ESP32** utilizando o protocolo **ESP-NOW**, sem necessidade de Wi-Fi tradicional.  
